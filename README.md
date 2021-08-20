@@ -21,10 +21,10 @@ Data Science Projects of Daara Shaw, written in Python.
 
 ### Exploring Hacker News Posts
 **Goal**: To explore posts that begin with Ask HN or Show HN  
-**Tags**: `Analysis`, `datetime`  
+**Tags**: `Analysis`  
 [Notebook](https://github.com/Daara-S/data-science/blob/main/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)
 
 ### Profitable App Profiles for the App Store and Google Play Markets
 **Goal**: Analyse multiple datasets to help developers understand what types of apps will attract more users  
-**Tags**: `Data Cleaning`, `Analysis`, `Freq tables`  
+**Tags**: `Data Cleaning`, `Analysis`    
 [Notebook](https://github.com/Daara-S/data-science/blob/main/Profitable%20App%20Profiles/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
