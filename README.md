@@ -28,3 +28,16 @@ Data Science Projects of Daara Shaw, written in Python.
 **Goal**: Analyse multiple datasets to help developers understand what types of apps will attract more users  
 **Tags**: `Data Cleaning`, `Analysis`    
 [Notebook](https://github.com/Daara-S/data-science/blob/main/Profitable%20App%20Profiles/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
+
+
+## Courses Completed  
+
+### [Dataquest](https://www.dataquest.io/)
+Awarded 3 month scholarship from **Dataquest & AI Inclusive Scholarship** programme  
+Working 10h/week on the `Data Scientist in Python` study path  
+- Python for Data Science: Fundamentals 1 & 2, Intermediate
+- Pandas and Numpy Fundamentals
+- Data Visualization Fundamentals
+- Storytelling Data Visualization and Information Design
+- Data Cleaning and Analysis
+- Data Cleaning in Python: Advanced
